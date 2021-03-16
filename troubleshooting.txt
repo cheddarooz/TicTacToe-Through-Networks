@@ -1,0 +1,3 @@
+
+How to install javafx onto your machine:
+https://www.jetbrains.com/help/idea/javafx.html#add-javafx-lib
